@@ -2,7 +2,7 @@
 
 [Safran.io] için Node CLI haber okuyucusu.
 
-## Installation
+## Kurulum
 
 ```bash
 npm install -g safran
@@ -10,6 +10,6 @@ npm install -g safran
 
 ![Safran.io](https://raw.githubusercontent.com/f/safran-cli/master/screenshot.png)
 
-## License
+## Lisans
 
 [MIT License](http://f.mit-license.org)
