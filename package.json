@@ -1,6 +1,6 @@
 {
   "name": "safran",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Safran.io CLI Tool",
   "main": "index.js",
   "bin": {
