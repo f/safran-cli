@@ -1,4 +1,4 @@
-# Safran CLI
+# Safran CLI Okuyucu
 
 [Safran.io] için Node CLI haber okuyucusu.
 
