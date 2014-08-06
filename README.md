@@ -1,12 +1,20 @@
 # Safran CLI Okuyucu
 
-[Safran.io](http://safran.io) için Node CLI haber okuyucusu.
+[Safran.io](http://safran.io) için Node CLI haber okuyucusu. En son gönderilen 10 linki gösterir.
 
 ## Kurulum
 
 ```bash
 npm install -g safran
 ```
+
+## Kullanım
+
+```bash
+safran
+```
+
+Uygulama şu an için herhangi bir opsiyon almamaktadır.
 
 ![Safran.io](https://raw.githubusercontent.com/f/safran-cli/master/screenshot.png)
 
